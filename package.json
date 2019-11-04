@@ -1,5 +1,5 @@
 {
-  "name": "2016",
+  "name": "2017",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -31,5 +31,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://pseuyi.github.io/2016"
+  "homepage": "https://pseuyi.github.io/2017"
 }
